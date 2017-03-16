@@ -61,7 +61,7 @@ Do something diferent, make a change!
 
 > 我们是一个协同学习型组织，以开源项目为中心，结合产学研，理论技术知识能力实践闭环正反馈迭代积累的过程，人与人与机器机器的合作学习！项目处于初期规划阶段，**欢迎各位有志之士的加入！**
 
-基于共同信念、统一基础、协同机制，自由分工自组织工作组，根据 [规则](https://github.com/GYGit/KiMi/blob/master/0-team-社群/rules贡献积分规则.md) 记录贡献积分，按贡献分配奖励，未来若盈利可分红，涌现集体智慧！欢迎每个人贡献力量、收获积分朋友知识工具技术。
+基于共同信念、统一基础、协同机制，自由分工合作的工作组，可选择一个或多个模块参与合作学习及开发，根据 [规则](https://github.com/GYGit/KiMi/blob/master/0-team-社群/rules贡献积分规则.md) 记录贡献积分，按贡献分配奖励，未来若盈利可分红，涌现集体智慧！欢迎每个人贡献力量、收获积分朋友知识工具技术。
 
 【值得加入】知识改变命运，创新改变世界！改变自己从心而为，不忘初心方得始终！
 
@@ -83,13 +83,13 @@ Do something diferent, make a change!
 
 【核心重点】智能体语义元核心抽象、认知建模、知识图谱、智能知识管理GTD解决方案、产品设计开发，社群运营协同积累创新。（智能基础->智能核->智能块->智能体）群体智能->通用智能，模拟->超越。模块：km-thory km-engine km-onto km-agents km-sys km-ui、km-graph。
 
-【相关领域及技术】数学算法、机器学习、模式识别、自然语言处理、图数据库、语义网、web知识发现、检索推理推荐、知识工程、多agent集群智能、复杂系统、架构-软件工程、安全网络通信加密权限认证、区块链VR、领域语言代码生成、认知心理、人机交互UI数据可视化、知识共享协议产权、社群体验经济、webkit浏览器、大数据、虚拟化云计算、项目管理过程改进。
+【领域及技术】数学算法、机器学习（tensorflow）、模式识别、自然语言处理（NLTK、hanlp）、图数据库（neo4j）、分布式存储（ceph）、语义网（OWL）、web知识发现（爬虫）、检索（lucene）推理推荐、知识工程（业务）、多agent集群智能（架构）、复杂系统、软件工程（项目开发管理）、安全网络通信加密权限认证（openSSL）、区块链、VR、领域语言代码生成（DSL）、认知心理、人机交互UI（vue.js、bootstrap）、数据可视化、知识共享协议产权、社群体验经济、网站（keystone）、桌面（webkit、electron）、移动（weex）、大数据（spark）、虚拟化云计算（Mesos、docker、Kubernetes）。
 
 【工作分解】**关键在于**：统一认识、工具支持、有效积累可持续发展。
 
 - 业务建模（智能知识管理GTD理论体系）：核心抽象模型，人性建模。
-- 产品设计（个人智能助理）：产品规划、虚拟形象UI设计、竞品分析。参考产品：protege、vscode、quip、knowledgebuilder、metacademy、wiki、CSDN知识库、sketchboard、feedly、onenote画板、foxmail、京东阅读、qq音乐、NetLogo、flyinglogic、sourceinsight、幕布、Anki、wolframalpha。
-- 技术架构（通用智能系统）：分布式计算存储多智能体协同系统：普适网格语义人类计算。全平台、微服务、核心算法、技术选型、测试部署。C++、Python、js、HTML、electron、weex、keystone、neo4j、vue.js、bootstrap、lucene、tensorflow、NLTK、hanlp、ceph、spark、docker、openSSL。
+- 产品设计（个人智能助理）：产品规划、虚拟形象UI设计、竞品分析。**参考产品**：protege、vscode、quip、knowledgebuilder、metacademy、wiki、CSDN知识库、sketchboard、feedly、onenote画板、foxmail、京东阅读、qq音乐、NetLogo、flyinglogic、sourceinsight、幕布、Anki、wolframalpha。
+- 技术架构（通用智能系统）：分布式计算存储多智能体协同系统：普适网格语义人类计算。全平台、微服务、核心算法、技术选型、测试部署。C++、Python、js、HTML。
 - 商业计划（SaaS 软件即服务）：以软件产品为中心的增值服务、品牌运营推广营销。
 - 项目管理（小代价达到目的）：敏捷迭代、过程改进、配置管理。
 - 社群建设（利益共同体联盟）：文化理念集体智慧、扩大影响。
