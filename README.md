@@ -83,7 +83,7 @@ Do something diferent, make a change!
 
 【核心重点】智能体语义元核心抽象、认知建模、知识图谱、智能知识管理GTD解决方案、产品设计开发，社群运营协同积累创新。（智能基础->智能核->智能块->智能体）群体智能->通用智能，模拟->超越。模块：km-thory km-engine km-onto km-agents km-sys km-ui、km-graph。
 
-【领域及技术】数学算法、机器学习（tensorflow）、模式识别、自然语言处理（NLTK、hanlp）、图数据库（neo4j）、分布式存储（ceph）、语义网（OWL）、web知识发现（爬虫）、检索（lucene）推理推荐、知识工程（业务）、多agent集群智能（架构）、复杂系统、软件工程（项目开发管理）、安全网络通信加密权限认证（openSSL）、区块链、VR、领域语言代码生成（DSL）、认知心理、人机交互UI（vue.js、bootstrap）、数据可视化、知识共享协议产权、社群体验经济、网站（keystone）、桌面（webkit、electron）、移动（weex）、大数据（spark）、虚拟化云计算（Mesos、docker、Kubernetes）。
+【领域及技术】智能知识管理（领域建模）、机器学习（tensorflow）、自然语言处理（NLTK、hanlp）、知识图谱（图数据库neo4j分布式存储ceph）、领域语言（DSL）、语义网（OWL）、web知识发现（爬虫）、检索（lucene）推理推荐、多agent集群智能（架构）、人机交互UI（vue.js、bootstrap、数据可视化）、Web网站（keystone）、桌面（webkit、electron）、移动（weex）、大数据（spark）、虚拟化云计算（Mesos、docker、Kubernetes）、安全网络通信加密权限认证（openSSL）、软件工程（项目开发管理）、区块链、VR、代码生成、认知心理、复杂系统、知识共享协议产权、社群体验经济。
 
 【工作分解】**关键在于**：统一认识、工具支持、有效积累可持续发展。
 
