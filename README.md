@@ -47,7 +47,7 @@ Do something diferent, make a change!
 - 即时通信、实时协同、项目合作、积分系统。
 - 个性化自学习聊天机器人、虚拟形象、语音识别生成、事务代理、主动推荐提醒引导辅助。 
 - 自然语言交互、语义化、响应式生成式、文本化、可视化、极致沉浸体验。
-- 高级功能：自定义配置、命令行、领域语言。
+- 高级功能：自定义配置、插件、命令行、领域语言。
 
 辅助您进行极简智能知识管理：知识可视化创作展示，简化结构化已有知识资源，建立知识体系。深入本质理解知识、整体高效合作学习。个人事务的管理、原则方法论习惯的养成。语义计算，辅助推理、仿真、预测、决策。聊天解闷启发。
 
@@ -123,9 +123,11 @@ Do have faith in what you're doing! Later beter than never!
 > 关注公众号或加入微信群以获取最新消息及文章、参与讨论、联系加入我们。
 
 交流【qq群】: 13679059  
-**Email**: i@kmagent.com
-
+**Email**: i@kmagent.com  
+个人微信：  
 ![个人微信](./assets/images/webchat.png)  
+欢迎关注公众号：  
+![公众号](./assets/images/qrcode_kmagent_258.jpg)  
 
 开发【GitHub】:  [KMAgent](https://github.com/kmagent)  
 产品【博客】: ['http://kmagent.com'](http://kmagent.com)   
