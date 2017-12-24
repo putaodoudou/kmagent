@@ -4,7 +4,7 @@ KMAgent-个人智能助理
 
 [![LOGO](./assets/images/logo.png)](http://kmagent.com)
 
-个人知识智能助理（KMAgent, Knowledge Management Agent）--专注智能知识管理GTD 多元融合创新 发扬传承智慧！
+个人 知识智能助理（KMAgent, Knowledge Management Agent）--专注智能知识管理GTD 多元融合创新 发扬传承智慧！
 
 [KMAgent](http://kmagent.com) 以**个人知识管理 GTD**应用为主的工具效率软件。基于交互区+文档的协同学习工作空间，专注于语义计算、知识工程，致力于通过自然语言处理、机器学习、知识图谱等人工智能技术，简化知识增强认知、融合支持优秀方法论模板，辅助高效学习工作，扩展个人能力，类似钢铁侠的【贾维斯】。以开源项目的形式结合产学研，支持社群协同积累创新，节省时间精力，从知识中挖掘智慧。您的私人知识引擎、秘书、智友、智囊团。
 
@@ -150,7 +150,7 @@ Do have faith in what you're doing! Later beter than never!
 
 相关内容知识：CC-BY-SA 知识共享署名-相同方式共享 3.0 中国大陆[许可协议](http://creativecommons.org/licenses/by-sa/3.0/cn)
 
-开源项目：许可协议 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+开源项目：许可协议 [MIT](./LICENSE)
 
 标识 Logo：[![LOGO](./assets/images/logo.png "源计划")](http://kmagent.com)
 标记 mark: [![mark](./assets/images/mark.png "源计划标记")](http://kmagent.com)
